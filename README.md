@@ -1,8 +1,10 @@
 # learningJava
 
-Now working on this repo.
+*Not learning Java anymore*
 
-Is following Anisul Islam's videos. These are the codes till now that I've learned
+*Now working on this repo.*
+
+I was following Anisul Islam's videos. These are the codes that I've learned until now.
 
 
 
