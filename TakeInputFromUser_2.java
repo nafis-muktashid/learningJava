@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class TakeInputFromUser_2 {
 	public static void main(String[] args) {
-		Scanner inputInt = new Scanner(System.in);
+		//for different data type- different scanner object needed.
+		Scanner inputInt = new Scanner(System.in); 
 		Scanner inputStr = new Scanner(System.in);
 		
 		int id;
